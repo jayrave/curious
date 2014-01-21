@@ -1,0 +1,45 @@
+body{
+  background-image: url('image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container{
+  background-color: #ffffff;
+  width: 1000px;
+  margin: auto;
+}
+
+header{
+  height: 200px;
+  background-color: rgb(200, 30, 40);
+  padding: 0;
+  margin: 0;
+}
+
+nav{        
+  background-color: rgb(40, 200, 30);
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar{
+  width: 300px;
+  float: left;
+  background-color: rgb(80, 80, 80);
+}
+
+.content{
+  width: 700px;
+  background-color: #003456;
+  margin-left: 300px;
+}
+
+nav li{
+  display: inline;
+}
+
+nav ul{
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+.container {
+	background: url(1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.solid {
+	background: rgb(255, 255, 255);
+}
+
+.transparent {
+	height: 200px;
+}
+
